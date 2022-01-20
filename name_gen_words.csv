@@ -1,0 +1,31 @@
+id,category,word,gender
+1,title,Professor,NB
+2,title,Commander,NB
+3,title,Doctor,NB
+4,title,The Honorable,NB
+5,title,Lady,F
+6,title,Mister,M
+7,title,"His Excellency, King",M
+8,title,"Her Majesty, Queen",F
+9,title,Lord,M
+10,name,Windex,NB
+11,name,Chlorox,NB
+12,name,Wal-Mart,NB
+13,name,Valvoline,M
+14,name,Meatball,M
+15,title,Headmistress,F
+16,name,Pipecleaner,NB
+17,name,Hamsteak,M
+18,name,Petunia,F
+19,name,Peloton,NB
+20,name,Pookie,F
+21,name,Sprocket,NB
+22,name,Fortnite,M
+23,name,Nacho Cheese Gordita,NB
+24,name,Buckets,NB
+25,name,June Bug,F
+26,name,Foo Foo,F
+27,name,Fuzzball,NB
+28,name,Waffles,NB
+29,name,Oprah,F
+30,title,The Dark Huntress,F
